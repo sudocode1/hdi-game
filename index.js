@@ -6,6 +6,7 @@ const hdi = [
     {"name": "Denmark", "code": "dk", "hdi": 0.952},
     {"name": "Sweden", "code": "se", "hdi": 0.952},
     {"name": "Ireland", "code": "ie", "hdi": 0.950},
+    {"name": "Germany", "code": "de", "hdi": 0.950},
     {"name": "Singapore", "code": "sg", "hdi": 0.949},
     {"name": "Netherlands", "code": "nl", "hdi": 0.946},
     {"name": "Australia", "code": "au", "hdi": 0.946},
